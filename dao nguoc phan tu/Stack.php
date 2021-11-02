@@ -1,6 +1,4 @@
-<?php
-class Stack
-{
+<?{
     public array $stack;
 
     public function __construct()
